@@ -10,7 +10,7 @@
     "SUDO": {
       "description": "Add Owwner Number Here",
       "required": true,
-      "value": "923184070915"
+      "value": "201030982295"
     },
     "SUDO_NAME": {
       "description": "Add Your Name Here",
@@ -33,19 +33,19 @@
       "value": "."
     },
     "BOT_NAME": {
-      "description": "Set Your Bot Name Here",
+      "description": "🌚✨Cool REBEL✨🌚",
       "required": false,
       "value": "Xʟɪᴄᴏɴ_Mᴅ_V3"
     },
      "PACK_NAME": {
-      "description": "Enter Pack Name Here",
+      "description": "🌚✨Cool REBEL✨🌚",
       "required": false,
       "value": "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
      },
      "AUTHER_NAME": {
-      "description": "Enter Auther Name Here",
+      "description": "🌚✨Cool REBEL✨🌚",
       "required": false,
-      "value": "ＭＡＤＥ   ＢＹ   ＳＡＬＭＡＮ"
+      "value": "🌚✨Cool REBEL✨🌚"
      },
      "GL_VIP": {
       "description": "Enter Premium Members Numbers [ Each Saperated By Comma ]",

@@ -688,7 +688,7 @@ async function startXliconBotInc() {
                 let _0x518a2e = _0x5c4581;
                 const _0xb0a5db = _0x2d596c["participants"][_0x4b0255(0x18e)];
                 (xeonbody =
-                  "┌─❖\x0a│『\x20\x20*في دهيه!!\x20🍁*\x20\x20』\x0a└┬\x0a\x20\x20\x20\x20◎\x20「\x20@" +
+                  "┌─❖\x0a│『\x20\x20* مع السلامه مترجعش تاني Good bye!!\x20🍁*\x20\x20』\x0a└┬\x0a\x20\x20\x20\x20◎\x20「\x20@" +
                   _0x518a2e["split"]("@")[0x0] +
                   _0x4b0255(0x124) +
                   _0x2d596c[_0x4b0255(0x1dc)] +
@@ -698,7 +698,7 @@ async function startXliconBotInc() {
                   _0x420046 +
                   "\x20" +
                   _0x3aa69c +
-                  "\x0a\x20\x20\x20\x20│\x20➪\x20\x20\x20*Support\x20by\x20Subscribe\x20My\x20Channel\x20:*\x0a\x20\x20\x20\x20◎\x20\x20\x20\x20\x20عمك ياض\x0a\x20\x20\x20\x20└─────────────||"),
+                  "\x0a\x20\x20\x20\x20│\x20➪\x20\x20\x20*Support\x20by\x20Subscribe\x20My\x20Channel\x20:*\x0a\x20\x20\x20\x20◎\x20\x20\x20\x20\x20برعاية Bot REBEL\x0a\x20\x20\x20\x20└─────────────||"),
                   _0x1bbc17["sendMessage"](_0x1036b8["id"], {
                     text: xeonbody,
                     contextInfo: {
